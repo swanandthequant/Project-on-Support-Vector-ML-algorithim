@@ -30,9 +30,9 @@ The aim was to understand how SVMs work with different kernels and how they perf
 ---
 
 ## Project Updates  
-- I am working on some thimg big, please stay tunned 🙂  
+- I am working on some thimg big, please stay tunned 
 - Will try to upload the update by today.  
 
-Thank you everyone 🙏  
+Thank you everyone
 
 — Swanand Patil  
